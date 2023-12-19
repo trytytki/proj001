@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="selenium-server-4.16.1">
+      <CLASSES>
+        <root url="jar://C:/REC/selenium-server-4.16.1.jar!/" />
+        <root url="jar://C:/REC/testng-6.14.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
